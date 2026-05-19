@@ -52,7 +52,7 @@ export default function ContactPage() {
             <div className="lg:col-span-2 space-y-6">
               {/* Info cards */}
               {[
-                { icon: Phone, title: 'Call Us', lines: ['+91 98765 43210', '+91 98765 43211'], link: 'tel:+919876543210' },
+                { icon: Phone, title: 'Call Us', lines: ['+91 7607956595', '+91 7607956595'], link: 'tel:+917607956595' },
                 { icon: Mail, title: 'Email', lines: ['hello@banarasghumo.in', 'bookings@banarasghumo.in'], link: 'mailto:hello@banarasghumo.in' },
                 { icon: MapPin, title: 'Visit Us', lines: ['D-14, Assi Ghat Area', 'Varanasi, UP — 221005'], link: '#map' },
                 { icon: Clock, title: 'Hours', lines: ['Mon – Sat: 9:00 AM – 8:00 PM', 'Sunday: 10:00 AM – 6:00 PM'], link: null },
@@ -72,7 +72,7 @@ export default function ContactPage() {
 
               {/* WhatsApp */}
               <a
-                href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20plan%20a%20trip%20to%20Banaras!"
+                href="https://wa.me/917607956595?text=Hi%2C%20I%20want%20to%20plan%20a%20trip%20to%20Banaras!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-5 rounded-xl bg-green-500/10 border border-green-500/20 hover:bg-green-500/15 hover:border-green-500/30 transition-all duration-300 group"
