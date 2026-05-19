@@ -21,9 +21,9 @@ const timeline = [
 ];
 
 const team = [
-  { name: 'Lavkush Yadav', role: 'Co-Founder & CEO', expertise: 'Cultural Expert & Storyteller', avatar: 'AM' },
-  { name: 'Gaurav Singh', role: 'Co-Founder & Head of Operations', expertise: 'Logistics & Local Networks', avatar: 'RT' },
-  { name: 'Chanchal Yadav', role: 'Head of Experiences', expertise: 'Curating Unique Journeys', avatar: 'PJ' },
+  { name: 'Lavkush Yadav', role: 'Co-Founder & CEO', expertise: 'Cultural Expert & Storyteller', avatar: 'LY' },
+  { name: 'Gaurav Singh', role: 'Co-Founder & Head of Operations', expertise: 'Logistics & Local Networks', avatar: 'GS' },
+  { name: 'Chanchal Yadav', role: 'Head of Experiences', expertise: 'Curating Unique Journeys', avatar: 'CY' },
 ];
 
 export default function AboutPage() {
